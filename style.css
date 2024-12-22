@@ -74,12 +74,12 @@ body{
 #qrImage img{
     width: 100%;
     height: 100%;
-    padding: 10px;
+    padding: 40px;
 }
 #imgBox.active{
     max-height: 200px;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 155px;
     margin: 20px auto;
     border: 1px solid #fffbfb;
 }
